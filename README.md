@@ -8,7 +8,7 @@
 <br>
 <br>
 
-![Grasshopper image](images\GC_Grasshopper.JPG)
+![Grasshopper image](images/GC_Grasshopper.JPG)
 
 
 <br>
