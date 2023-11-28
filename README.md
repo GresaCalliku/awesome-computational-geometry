@@ -1,4 +1,4 @@
-# awesome-computitional-geometry
+# awesome-computational-geometry
 
 
 
